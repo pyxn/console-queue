@@ -1,7 +1,6 @@
 /**
  * Queueing Theory - Bank Queue Simulation
- * Single VS Multi-Line Queues
- * by Pao Yu
+ * Single VS Multi-Line Queues by Pao Yu
  */
 
 @SuppressWarnings("unchecked")  /* suppress safe type cast checks */
