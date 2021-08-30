@@ -3,7 +3,7 @@
 ### Background
 Queueing Theory refers to the mathematical study of waiting lines and queues. This topic, along with the Queue data structure, is one of the core concepts taught in almost all Data Structures and Algorithms courses. This project seeks to touch upon Queuing Theory, particularly the comparison between single and multi-line queues, to see which would perform better in serving a varying number of customers within a controlled simulation.
 
-<img src="./figure.png" style='width: 100%; margin: auto;'>
+<img src="./assets/figure.png" style='width: 100%; margin: auto;'>
 Figure: The Line Dance - Queueing Theory<sup>[1]</sup>
 
 ### About the Bank Queue Simulation
